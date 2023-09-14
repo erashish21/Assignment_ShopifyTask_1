@@ -189,7 +189,7 @@ nav a:hover {
     /* Change to your desired hover color */
 }
 
-/* Style the cart icon */
+/* Style the cart icon
 .cart a {
     text-decoration: none;
     color: white;
@@ -205,7 +205,7 @@ nav a:hover {
 
 .cart-count {
     background-color: #FFA500;
-    /* Change to your desired count background color */
+    /* Change to your desired count background color 
     color: white;
     font-size: 12px;
     padding: 2px 6px;
@@ -215,7 +215,7 @@ nav a:hover {
     right: 0;
 }
 
-/* Style the cart preview */
+/* Style the cart preview 
 .cart-preview {
     position: absolute;
     top: 100%;
@@ -226,7 +226,7 @@ nav a:hover {
     display: none;
 }
 
-/* Make the cart preview visible on hover */
+/* Make the cart preview visible on hover 
 .cart:hover .cart-preview {
     display: block;
-}
+} */
