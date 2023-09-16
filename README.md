@@ -67,7 +67,7 @@ To adjust the behavior or styling, you can customize the JavaScript functions an
 
 Contributions to improve and enhance this code are welcome! Feel free to fork the repository, make changes, and submit pull requests.
 
-For more information or support, visit [Your Website URL](https://yourwebsite.com).
+For more information or support, visit([https://yourwebsite.com](https://kaleidoscopic-genie-204b91.netlify.app)).
 # Shopping Cart JavaScript
 
 ## Introduction
@@ -117,4 +117,4 @@ Contributions to improve and enhance this code are welcome! Feel free to fork th
 
 ---
 
-For more information or support, visit [Your Website URL](https://stalwart-rugelach-96dd3e.netlify.app/ ).
+For more information or support, visit [Your Website URL](https://kaleidoscopic-genie-204b91.netlify.app).
